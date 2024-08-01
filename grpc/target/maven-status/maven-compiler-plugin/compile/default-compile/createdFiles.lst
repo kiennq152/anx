@@ -1,0 +1,9 @@
+com\cisco\stbarth\netconf\grpc\GRPCClient$1.class
+com\cisco\stbarth\netconf\grpc\GRPCClient$3.class
+com\cisco\stbarth\netconf\grpc\gRPCExecGrpc$1.class
+com\cisco\stbarth\netconf\grpc\GRPCClient$2.class
+com\cisco\stbarth\netconf\grpc\gRPCConfigOperGrpc$1.class
+com\cisco\stbarth\netconf\grpc\GNMIExt$1.class
+com\cisco\stbarth\netconf\grpc\gNMIGrpc$1.class
+com\cisco\stbarth\netconf\grpc\GNMI$1.class
+com\cisco\stbarth\netconf\grpc\XRGRPC$1.class
